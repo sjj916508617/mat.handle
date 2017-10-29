@@ -2,7 +2,7 @@
 
 
 
-其中Originaldata_separate.mat为。mat数据，mat.handle为python程序，主要对数据进行分类
+其中Originaldata_separate.mat为.mat数据，mat.handle为python程序，主要对数据进行分类
 
 
 
